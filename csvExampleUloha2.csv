@@ -1,0 +1,3 @@
+id;meno;email;login;password;publicIP;privateIP;ssh;http;https;misc1;misc2
+12345;Klemo Matusko; matuskl6@centrum.sk; xklemo;c0nur4N5MvVyR8c; 147.175.121.210;192.168.0.1;2201;8001;4401;9001;1901
+54752;Nejaky Florian; matuskoklemo@gmail.com; xkekec;nz1E0o6g5gxHGUi; 147.175.121.210;192.168.0.2;2202;8002;4402;9002;1902
